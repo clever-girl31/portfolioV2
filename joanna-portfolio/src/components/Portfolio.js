@@ -1,5 +1,7 @@
 function Portfolio () {
-  <div>Hello, this is the Portfolio page!</div>
+  return (
+    <div>Hello, this is the Portfolio page!</div>
+  )
 }
 
 export default Portfolio
